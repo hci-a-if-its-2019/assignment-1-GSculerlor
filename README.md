@@ -15,13 +15,63 @@
 - Go back to beatmap page without explicitly go back using browser back button
 
 ## User Description
-- Female, ~21 years old
-- Costume Design student at LaSalle Collage
-- Formerly an osu! player
+
+- Male, ~21 years old
+- Universitas Airlangga student
+- Formerly an osu! player and one of top player mania Indonesia
 - Familiar with old osu! Webpage, but not with the current webpage
 
 ## Transcript
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse auctor, nunc non gravida maximus, nisl dui lobortis mi, ut maximus ipsum arcu eu quam. Etiam euismod lacus rhoncus lectus dapibus, nec maximus lorem porttitor. Nunc finibus dictum vehicula. Maecenas feugiat turpis vitae maximus placerat. Nunc quis neque vestibulum, rhoncus libero vel, efficitur diam. Donec lobortis turpis condimentum ultrices finibus. Sed sit amet eleifend sapien, non tristique felis. Suspendisse potenti. Maecenas sodales ac dolor ac suscipit. Aenean turpis arcu, placerat et augue vel, lacinia tincidunt ante. Etiam rhoncus nisl vitae sem rhoncus ultrices. Praesent venenatis vulputate diam, iaculis fringilla nisi. Nullam a tellus eget ipsum volutpat mattis fringilla non erat. Donec tincidunt mi sed metus vulputate tristique. Nam in dolor ut ex vestibulum rhoncus in nec lectus.
+```
+👌🏼: User tester
+🤟🏼: Me
+Disclaimer: This may contain lot (almost everything) of unnecessary dialogue, so bear with it
+---------------------------------------------------------------------------------------------
+
+👌🏼: Aku ngomong opo iki?
+🤟🏼: Yo terserah, bahasa opo ae bebas
+👌🏼: Terus mbok apakno iki?
+🤟🏼: Tak gawe transkrip ngkok. Wes coba login o.
+👌🏼: Iki kudu nggawe web anyar?
+🤟🏼: Yo emang iku tujuan e, nggawe web anyar
+👌🏼: Yaudah login, iki pake akun temenku *buka menu profil*
+👌🏼: Wow terakhir maen 25 days ago, eazy 250 pp
+🤟🏼: Eh aku pp rework onok 2 200 pp akhir e
+👌🏼: Aku pisan onok 400 pp, eh 397 pp nanggung map santa san +HR *scroll ke bagian most played beatmap*
+👌🏼: Ya ini map-map kesukaan akib, tapi gaada diskusinya jadi jangan
+🤟🏼: Nyari map baru yang ada diskusinya
+👌🏼: Yang ini, eh nggak ada ini. Tak buka akunku sing liyo *membuka page search*
+👌🏼: Oh iyo iki *mencari akun bsbsatria*
+🤟🏼: Oh yang juara IRT ya gan?
+👌🏼: Juara 2 gara gara maen ndek rumah e mas cahyo. Nah iki sing 397 pp
+🤟🏼: Nanggung anjir
+👌🏼: Iki kok ilang sih scrollbar e 
+🤟🏼: Iku tekan web osu e btw
+👌🏼: Iyo ilang, ada map favorit *scroll ke bagian favorite beatmap*
+🤟🏼: Eh map e helblinde enak btw, iso tak HR
+👌🏼: Iyo enak *memilih map me & u - succducc*
+👌🏼: Terus milih discussion *membuka page discussion beatmap*
+👌🏼: Lah ini map lama, gaada discussionnya. Terus gimana?
+🤟🏼: Nyari yang baru ae
+👌🏼: Yaudah kita ke beatmap listing
+🤟🏼: Hahaha, nyari map bagus nyari map bagus
+👌🏼: Ini, yowes iki ae *memilih salah satu map random*
+🤟🏼: Map opo iki gak jelas 
+👌🏼: Loh apik iki lagu e enak. Wes discussion discussion. Nah ini *membuka page discussion beatmap*
+👌🏼: Ini di diffnya Grey *scrolling ke bawah mencari button*, udah terus gimana ini?
+🤟🏼: Nah gak ngerti penting iso mbalik maneh
+👌🏼: *spamming click dimana-mana* Oh kalo nggak salah disini *spamming click di tab osu*
+👌🏼: Kok gaiso
+🤟🏼: Nah yo iku
+👌🏼: *masih mencari sampai beberapa menit*
+🤟🏼: Inti e kudu balik nang beatmap page e
+👌🏼: *spamming click sampai ke kena map title* Nah oh iku
+🤟🏼: Nah udah ketemu
+👌🏼: Nah sip
+```
+
+
+
 ## Models and Annotations
 ### Artifact Model
 ![Artifact Model and Annotation](https://picsum.photos/400/300/?random)
