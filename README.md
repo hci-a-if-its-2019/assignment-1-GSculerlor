@@ -74,8 +74,14 @@ Disclaimer: This may contain lot (almost everything) of unnecessary dialogue, so
 
 ## Models and Annotations
 ### Artifact Model
-![Artifact Model and Annotation](https://picsum.photos/400/300/?random)
+![Artifact Model 1](img/artifact_1.png)
+
+![Artifact 2](img/artifact_2.png)
+
+![Artifact 3](img/artifact_3.png)
+
 ### Flow Model
+
 ![Flow Model and Annotation](https://picsum.photos/400/300/?random)
 ### Cultural Model
 ![Cultural Model and Annotation](https://picsum.photos/400/300/?random)
