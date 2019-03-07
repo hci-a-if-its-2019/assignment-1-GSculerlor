@@ -86,4 +86,14 @@ Disclaimer: This may contain lot (almost everything) of unnecessary dialogue, so
 ### Cultural Model
 ![Cultural Model](img/cultural_1.png)
 ## Do's and Don't's
-Fusce lobortis massa mauris, in aliquam erat aliquet eget. Donec rhoncus venenatis mauris, at commodo odio bibendum ac. Sed consectetur enim justo, vitae maximus eros elementum non. Sed feugiat orci sem, vel faucibus sem aliquet sed. Praesent pulvinar felis eget nisl varius, id lacinia urna pretium. Sed at ornare diam, nec fringilla dolor. In ut gravida sapien, eget varius magna. Morbi lobortis ex eu eleifend finibus. Phasellus eget nulla ullamcorper, ullamcorper purus ac, luctus turpis. Sed volutpat mauris ut erat consectetur, in sagittis erat egestas.
+
+Do:
+
+- Consistency on adding moddingv2 discussion on all map, not the newer one
+- Make link/hyperlink element more noticeable
+- Make beatmap discussion panel more contextual and semantics
+
+Don't's:
+
+- Use only link/hyperlink for a "large" operation task, using button instead
+
