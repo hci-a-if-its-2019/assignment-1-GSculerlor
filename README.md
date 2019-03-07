@@ -82,7 +82,7 @@ Disclaimer: This may contain lot (almost everything) of unnecessary dialogue, so
 
 ### Flow Model
 
-![Flow Model and Annotation](https://picsum.photos/400/300/?random)
+![Flow Model](img/flow_1.png)
 ### Cultural Model
 ![Cultural Model and Annotation](https://picsum.photos/400/300/?random)
 ## Do's and Don't's
