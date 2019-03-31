@@ -97,3 +97,11 @@ Don't's:
 
 - Use only link/hyperlink for a "large" operation task, using button instead
 
+
+# Remarks
+> * Thanks for having all the parts completely written in this assignment.
+> * However, it seems you forgot to include the line-numbers or time-codes in the `Transcript`. They would surely be helpful for readers to track with which part in the `Transcript` all the breakdowns annotated in the models are related to.
+
+| Working Days | Commits before D | Commits after D | Presentation (80%) | Repo (20%) | Total |
+|:------------:|:----------------:|:---------------:|:------------------:|:----------:|:-----:|
+| 2            | 6                | 0               | 88                 | 82,5       | 86,9  |
